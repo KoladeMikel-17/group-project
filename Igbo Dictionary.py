@@ -1,6 +1,6 @@
 # English to Igbo Dictionary Program
 
-Igbo_dictionary={
+Igbo_dictionary = {
     "Ututu Oma":"Good Morning",
     "Ehihie Oma": "Good Afternoon",
     "Mmiri": "Water",
@@ -28,3 +28,4 @@ if word in Igbo_dictionary:
     print("Your English Translation is: ", Igbo_dictionary [word] )
 
 else: print ("word wasn't found")
+
