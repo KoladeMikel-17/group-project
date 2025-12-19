@@ -1,6 +1,4 @@
-# English to Yoruba DictiYonary Program
-
-yoruba_dict = {
+Yoruba_dict = {
     "E kaasan": "Good afternoon",
     "omi": "Water",
     "ore": "Friend",
@@ -30,3 +28,4 @@ if word in yoruba_dict:
 else:
 
     print("Word wasn't found")
+
