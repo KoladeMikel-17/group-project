@@ -1,3 +1,5 @@
+# English to Yoruba DictiYonary Program
+
 yoruba_dict = {
     "E kaasan": "Good afternoon",
     "omi": "Water",
@@ -26,4 +28,5 @@ word = input("Enter your word: ")
 if word in yoruba_dict:
     print("Your english translation is: ", yoruba_dict[word])
 else:
+
     print("Word wasn't found")
